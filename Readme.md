@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador Backend Junior especializado en APIs REST, con experiencia en Django y Node.js. Apasionado por el desarrollo de soluciones escalables y el diseño de arquitecturas cliente-servidor robustas.<br><br>Egresado de Tecsup y actualmente estudiante de Ingeniería de Sistemas en la Universidad Católica de Santa María, enfocado en seguir fortaleciendo mis habilidades técnicas y mi crecimiento profesional en el desarrollo de software.
+Junior Backend Developer specializing in REST APIs, with experience in Django and Node.js. Passionate about developing scalable solutions and designing robust client-server architectures. A graduate of Tecsup and currently a Systems Engineering student at the Catholic University of Santa María, focused on further strengthening my technical skills and professional growth in software development.
 
 
 ## 🌐 Socials:
