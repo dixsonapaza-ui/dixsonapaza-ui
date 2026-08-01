@@ -1,36 +1,6 @@
-<h2 align="left">Hi 👋! I'm Dixson Yonay Apaza Quilla</h2>
-
-<h3 align="left">💻 Full Stack Developer • 🧪 QA Tester • 📋 Project Manager • 🎓 Software Development Student</h3>
-
-<p align="left">
-I'm a Software Design & Development student from Peru 🇵🇪 passionate about building scalable applications and delivering high-quality software.<br>
-Currently focused on Full Stack Development, Software Testing, Agile methodologies and modern web technologies.
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixsonapaza-ui&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixsonapaza-ui&layout=compact&theme=dracula" height="160"/>
-</div>
-
-###
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656968-8b7f2b0d-8d69-4c88-9a2d-d8d1d3d6fd44.gif" />
-
-## 🚀 About Me
-
-- 🎓 Software Design & Development Student at TECSUP
-- 💻 Full Stack Developer
-- 🧪 QA Tester
-- 📋 Project Manager
-- 🌱 Learning Selenium, Playwright & Software Architecture
-- 🤝 Scrum & Agile Enthusiast
-- 🎯 Goal: Become a Senior Software Engineer
-
-###
-
 ## 🛠 Tech Stack
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
 <div align="left">
 
@@ -94,7 +64,9 @@ Currently focused on Full Stack Development, Software Testing, Agile methodologi
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dixsonapaza-ui/dixsonapaza-ui/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dixsonapaza-ui/dixsonapaza-ui/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ###
 
