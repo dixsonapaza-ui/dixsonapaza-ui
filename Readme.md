@@ -1,12 +1,51 @@
-## 🛠 Tech Stack
+<h2 align="left">Hi 👋! I'm Dixson Yonay Apaza Quilla</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+Junior;QA+Tester+Junior;Project+Management;Software+Development+Student;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="left">
+I'm a Software Design & Development student from Peru 🇵🇪 passionate about building web applications, improving software quality and learning modern technologies.
+<br><br>
+Currently focused on Full Stack Development, Software Testing, Agile methodologies and software architecture.
+</p>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dixsonapaza-ui&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixsonapaza-ui&layout=compact&theme=dracula" height="160"/>
+
+</div>
+
+###
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 
+
+## 🚀 About Me
+
+- 🎓 Software Design & Development Student at TECSUP
+- 💻 Full Stack Developer Junior
+- 🧪 QA Tester Junior
+- 📋 Project Manager in software projects
+- 🌱 Learning Selenium, Playwright & Software Architecture
+- 🤝 Agile & Scrum Enthusiast
+- 🎯 Goal: Grow as a Software Engineer
+
+
+###
+
+## 🛠 Tech Stack
+
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,django,laravel,dotnet,cs,php,python,kotlin,mysql,postgres,mongodb,git,github,docker,linux,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,django,laravel,dotnet,cs,php,python,kotlin,mysql,postgres,mongodb,git,github,docker,linux,bash,vscode&perline=8"/>
 
 </div>
+
 
 ###
 
@@ -21,10 +60,111 @@
 - ✔ API Testing
 - ✔ Functional Testing
 - ✔ Regression Testing
-- ✔ UAT
+- ✔ User Acceptance Testing (UAT)
 - ✔ Performance Testing (JMeter & k6)
 - ✔ Test Case Design
 - ✔ Bug Reporting
+
+
+###
+
+## 🚀 Featured Projects
+
+
+### 💻 ReLaptop
+
+Software project focused on improving laptop repair and technical support management.
+
+Features:
+- Customer management
+- Repair tracking
+- Inventory management
+- Service workflow organization
+
+**Tech Stack:**
+
+React • Node.js • Express • PostgreSQL • Tailwind CSS
+
+
+---
+
+### 🔧 TECNILINK
+
+Platform that connects customers with verified technicians for technical services.
+
+Features:
+- Authentication with JWT
+- Role-based access
+- Technician verification
+- Service management
+
+**Tech Stack:**
+
+React • Node.js • Express • PostgreSQL • Prisma • JWT
+
+
+---
+
+### 🛒 E-Commerce Platform
+
+Full Stack online store with product management, authentication and shopping features.
+
+**Tech Stack:**
+
+Laravel • PHP • MySQL • Tailwind CSS
+
+
+---
+
+### 🧪 QA Testing Projects
+
+Practical software testing projects focused on quality assurance.
+
+Includes:
+
+- Functional Testing
+- API Testing
+- Regression Testing
+- UAT
+- Performance Testing
+
+**Tools:**
+
+Postman • JMeter • k6 • Selenium • Playwright
+
+
+###
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dixsonapaza-ui&theme=dracula&hide_border=true"/>
+
+</div>
+
+
+###
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dixsonapaza-ui&theme=dracula&row=1&column=7"/>
+
+</div>
+
+
+###
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dixsonapaza-ui&theme=dracula"/>
+
+</div>
+
 
 ###
 
@@ -60,16 +200,25 @@
 
 </div>
 
+
 ###
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dixsonapaza-ui/dixsonapaza-ui/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dixsonapaza-ui/dixsonapaza-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dixsonapaza-ui&style=for-the-badge&color=blue"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dixsonapaza-ui&style=for-the-badge&color=blue"/>
+
+</div>
