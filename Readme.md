@@ -16,7 +16,7 @@ Currently focused on Full Stack Development, Software Testing, Agile methodologi
 
 ###
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656968-8b7f2b0d-8d69-4c88-9a2d-d8d1d3d6fd44.gif" />
 
 ## 🚀 About Me
 
