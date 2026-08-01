@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! I'm Dixson Yonay Apaza Quilla</h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+Junior;QA+Tester+Junior;Project+Management;Software+Development+Student;Always+Learning+New+Technologies"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+Junior;QA+Tester+Junior;Project+Manager;Software+Development+Student;Always+Learning"/></p>
 
 <p align="left">
 I'm a Software Design & Development student from Peru 🇵🇪 passionate about building web applications, improving software quality and learning modern technologies.
@@ -22,7 +20,7 @@ Currently focused on Full Stack Development, Software Testing, Agile methodologi
 
 ###
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer GIF"/>
 
 
 ## 🚀 About Me
@@ -150,7 +148,7 @@ Postman • JMeter • k6 • Selenium • Playwright
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dixsonapaza-ui&theme=dracula&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dixsonapaza-ui&theme=dracula&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -161,7 +159,7 @@ Postman • JMeter • k6 • Selenium • Playwright
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dixsonapaza-ui&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dixsonapaza-ui&theme=github-dark&hide_border=true"/>
 
 </div>
 
