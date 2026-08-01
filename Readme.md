@@ -12,9 +12,9 @@ Currently focused on Full Stack Development, Software Testing, Agile methodologi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dixsonapaza-ui&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dixsonapaza-ui&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixsonapaza-ui&layout=compact&theme=dracula" height="160"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dixsonapaza-ui&layout=compact&theme=dracula" height="160"/>
 
 </div>
 
@@ -144,11 +144,11 @@ Postman • JMeter • k6 • Selenium • Playwright
 
 ###
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dixsonapaza-ui&theme=dracula&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dixsonapaza-ui&theme=dracula" height="170"/>
 
 </div>
 
